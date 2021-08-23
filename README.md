@@ -1,6 +1,6 @@
 <h4 align="center"> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-<p align='center'>I'm Thaynar, I'm a fullstack developer that is constantly learning and trying to be 1% better than yesterday.</p>
+<p align='center'>I'm Thaynar. I'm studying to be a fullstack developer that is constantly learning and trying to be 1% better than yesterday.</p>
 
 <p align='center'>Eu me chamo Thaynar, estou estudando para ser uma desenvolvedora fullstack e além de estar constantemente aprendendo também tento ser 1% melhor do que eu fui ontem.</p>
 
