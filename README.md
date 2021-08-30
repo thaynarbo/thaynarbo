@@ -11,7 +11,7 @@
 
 
 <div align='center'>
-  <a href="https://github.com/thaynar96">
+  <a href="https://github.com/thaynarbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynarbo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarbo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
