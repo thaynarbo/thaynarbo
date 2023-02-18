@@ -4,41 +4,6 @@
 
 <p align='center'>Eu me chamo Thaynar. Atualmente eu trabalho com desenvolvimento frontend na DB1 Global Software e estou constantemente aperfeiçoando minhas habilidades. Na Db1 eu estou em um projeto em que eu desenvolvo em TypeScript, ajudando a desenvolver um app com o framework React Native. Tenho estudado linguagens nativas voltadas para aplicativos moveis, como Java e Kotlin, pois meu trabalho requer maiores conhecimentos relacionados a desenvolvimento móvel mas eu tenho paixão por desenvolvimento web também.</p>
 
-**<div align="center">Atualmente estou aprendendo e possuo conhecimentos [pt-BR] / I'm currently learning and know[en-US]:</div>**
-
-<p align="center">
-<div align="center">
-  <p>  
-    <code>
-     <img  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    </code>
-    <code>
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    </code>
-    <code>
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    </code>
-    <code>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    </code>    
-    <code>
-         <img  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
-    </code> 
-    <code>
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    </code>
-     <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    </code>         
-    <code>
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    </code>
-    <code>
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-    </code>
-  </p>
-</div>
-
 
 <div align='center'>
   <a href="https://github.com/thaynarbo">
