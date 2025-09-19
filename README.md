@@ -3,18 +3,6 @@
 <p align='center'>I'm Thaynar. I'm currently a frontend developer at DB1 Global Software and I'm constantly learning and trying to improve my skills. Currently working on a project with ReactJS.</p>
 
 
-<div align='center'>
-  <a href="https://github.com/thaynarbo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynarbo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarbo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-
-
-
----
-
-
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i></p>
