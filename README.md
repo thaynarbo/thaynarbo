@@ -1,6 +1,6 @@
 <h4 align="center"> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-<p align='center'>I'm Thaynar. I'm currently a frontend developer at DB1 Global Software and I'm constantly learning and trying to improve my skills. Currently I'm on a project where I get to use TypeScript and help develop an app with the React Native framework. I've been studying the native languages regarding mobile apps, such as Java and Kotlin, as my job requires more knowledge related to mobile development but I also have a passion for web development and I keep practicing ReactJS.</p>
+<p align='center'>I'm Thaynar. I'm currently a frontend developer at DB1 Global Software and I'm constantly learning and trying to improve my skills. Currently working on a project with ReactJS.</p>
 
 
 <div align='center'>
